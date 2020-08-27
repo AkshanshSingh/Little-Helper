@@ -1,5 +1,5 @@
 # Little-Helper
-##A small menu driven python program to open certain application in your os. PS: It speaks ;)
+## A small menu driven python program to open certain application in your os. PS: It speaks ;)
 Currently it only supports four applications namely:
 1. Chrome
 2. Notepad
